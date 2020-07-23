@@ -1,6 +1,6 @@
 # Hi, I'm  Mykola  👋
 
-<img src=https://blush.ly/0qHABphia/p?bg=66b8da" width="100%"  alt="">
+<img width="100%" src=https://blush.ly/0qHABphia/p?bg=66b8da"   alt="Mikki">
 https://blush.ly/ScRAJCDsT/p?bg=66b8da
 Here are some ideas to get you started:
 
