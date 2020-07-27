@@ -19,8 +19,12 @@ Main technologies JavaScript, Sass, HTML/CSS3, Git, ReactJS
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
 
+[![Magento2](https://img.shields.io/badge/-Magento2-orange?style=flat-square&logo=Magento&logoColor=white)](https://github.com/MykolaRudnev)
+[![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON&logoColor=white)](https://github.com/MykolaRudnev)
+
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/MykolaRudnev)
 [![React](https://img.shields.io/badge/-Hooks-black?style=flat-square&logo=react)](https://github.com/MykolaRudnev)
+[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/MykolaRudnev)
 
 [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/MykolaRudnev)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
@@ -31,6 +35,7 @@ Main technologies JavaScript, Sass, HTML/CSS3, Git, ReactJS
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/MykolaRudnev)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/MykolaRudnev)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/MykolaRudnev)
+[![Figma](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=white)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mykola-rudnev-1525a5145/)](https://www.linkedin.com/in/mykola-rudnev-1525a5145/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudnevmykola@gmail.com)](mailto:rudnevmykola@gmail.com)
