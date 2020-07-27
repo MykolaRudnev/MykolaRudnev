@@ -24,7 +24,6 @@ Main technologies JavaScript, Sass, HTML/CSS3, Git, ReactJS
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/MykolaRudnev)
 [![React](https://img.shields.io/badge/-Hooks-black?style=flat-square&logo=react)](https://github.com/MykolaRudnev)
-[![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/MykolaRudnev)
 
 [![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)](https://github.com/MykolaRudnev)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
