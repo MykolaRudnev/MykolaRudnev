@@ -34,7 +34,7 @@ Main technologies JavaScript, Sass, HTML/CSS3, Git, ReactJS
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/MykolaRudnev)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/MykolaRudnev)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/MykolaRudnev)
-[![Figma](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=white)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=white)](https://github.com/MykolaRudnev)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mykola-rudnev-1525a5145/)](https://www.linkedin.com/in/mykola-rudnev-1525a5145/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudnevmykola@gmail.com)](mailto:rudnevmykola@gmail.com)
