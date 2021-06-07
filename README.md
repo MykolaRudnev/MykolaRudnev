@@ -1,14 +1,14 @@
 ## Hi, I'm  Mykola  👋
 
-<img width="50%" height="50%" src="https://blush.ly/OhsVvNwJO/p?bg=66b8da"   alt="Mikki">
+<img width="50%" height="50%" src="https://images.blush.design/fuwFxCeRHpWNPnFxBVJQ?w=920&auto=compress&cs=srgb"  alt="Mikki">
 
 ## About me  
 I'm a 23 years old, junior Front-End Dveloper. I always study new frontend technologies, have experience working with Magento 2 .I am a very committed and creative employee 
 Main technologies JavaScript, Sass, HTML/CSS3, Git, ReactJS
 
 
-- 🔭 I’m currently working on ... 20 react apps
-- 🌱 I’m currently learning ... React.js, Next.js
+- 🔭 I’m currently working on ... DJ evenst.
+- 🌱 I’m currently learning ...  Next.js.
 ## Technologies 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
