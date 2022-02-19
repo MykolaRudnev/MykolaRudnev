@@ -3,7 +3,7 @@
 <img width="50%" height="50%" src="https://images.blush.design/fuwFxCeRHpWNPnFxBVJQ?w=920&auto=compress&cs=srgb"  alt="Mikki">
 
 ## About me  
-I'm a 23 years old, junior Front-End Dveloper. I always study new frontend technologies, have experience working with Magento 2 .I am a very committed and creative employee 
+I'm a 24 years old, junior Front-End Dveloper. I always study new frontend technologies, have experience working with Magento 2 .I am a very committed and creative employee 
 Main technologies JavaScript, Sass, HTML/CSS3, Git, ReactJS
 
 
