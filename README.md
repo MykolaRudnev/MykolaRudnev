@@ -15,17 +15,17 @@ I have a strong focus on user experience and modern web technologies, such as Ga
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/MykolaRudnev)
 [![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-8a4baf?style=flat-square&logo=Gatsby)](https://github.com/MykolaRudnev)
-[![Next.js](https://img.shields.io/badge/-next.js-blue)](https://github.com/MykolaRudnev)
+[![Next.js](https://img.shields.io/badge/-Next.js-212529?style=flat-square&logo=next.js)](https://github.com/MykolaRudnev)
 [![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/MykolaRudnev)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
 [![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=JSON&logoColor=white)](https://github.com/MykolaRudnev)
 
 [![Magento2](https://img.shields.io/badge/-Magento2-orange?style=flat-square&logo=Magento&logoColor=white)](https://github.com/MykolaRudnev)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)](https://github.com/MykolaRudnev)
 
-[![Wordpress ACF](https://img.shields.io/badge/-wordpress%20ACF-00749C?style=flat-square&logo=wordpress)](https://github.com/MykolaRudnev)
+[![Wordpress ACF](https://img.shields.io/badge/-Wordpress%20ACF-00749C?style=flat-square&logo=wordpress)](https://github.com/MykolaRudnev)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/MykolaRudnev)](https://github.com/MykolaRudnev)
 
