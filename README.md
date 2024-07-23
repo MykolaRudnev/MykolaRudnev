@@ -3,7 +3,7 @@
 <img width="50%" height="50%" src="https://images.blush.design/fuwFxCeRHpWNPnFxBVJQ?w=920&auto=compress&cs=srgb"  alt="Mikki">
 
 ## About me  
-A competent front-end developer with nearly four years of experience, specializing in TypeScript, React.js, and Magento 2.
+A competent front-end developer with nearly five years of experience, specializing in TypeScript, React.js, and Magento 2.
 Skilled at creating responsive websites and e-commerce platforms,
 I have a strong focus on user experience and modern web technologies, such as Gatsby.js. Committed to leveraging my expertise in innovative web development projects, I am keen toadvance and excel as a senior front-end developer.
 
