@@ -2,7 +2,7 @@
 <img width="50%" height="50%" src="https://images.blush.design/fuwFxCeRHpWNPnFxBVJQ?w=920&auto=compress&cs=srgb" alt="Mikki">
 
 ## About me
-Front-end developer with **5+ years** of experience specializing in **React/Next.js**, **TypeScript**, and **Magento 2 (Hyvä)**. I build fast, accessible e-commerce and web apps with a strong focus on **performance (Core Web Vitals)**, **SEO**, and **clean DX**. Comfortable with **headless** setups (WordPress/ACF, GraphQL/Apollo) and modern tooling (CI/CD, code quality). Currently aiming to **advance into a Senior Front-End role** where I can ship reliably, mentor, and raise quality across the stack.
+Front-end developer with **6+ years** of experience specializing in **React/Next.js**, **TypeScript**, and **Magento 2 (Hyvä)**. I build fast, accessible e-commerce and web apps with a strong focus on **performance (Core Web Vitals)**, **SEO**, and **clean DX**. Comfortable with **headless** setups (WordPress/ACF, GraphQL/Apollo) and modern tooling (CI/CD, code quality). Currently aiming to **advance into a Senior Front-End role** where I can ship reliably, mentor, and raise quality across the stack.
 
 ## Technologies
 
